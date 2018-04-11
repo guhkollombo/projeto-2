@@ -1,0 +1,16 @@
+*{ margin: 0;}
+.texto {
+    width: 1120px;
+    border: 2px solid black;
+    height: 220px;
+}
+
+.form {
+    width:220px;
+    border:2px solid black;
+    margin-left:1130px;
+    margin-top: -220px;
+    font-family: sans-serif;
+    line-height: 35px;
+    
+}
